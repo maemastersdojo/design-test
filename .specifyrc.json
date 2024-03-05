@@ -14,6 +14,16 @@
             "filePath": "output/tokens.json"
           }
         }
+        {
+      "name": "To Swift",
+      "parsers": [
+        {
+          "name": "to-swift",
+          "output": {
+            "type": "file",
+            "filePath": "output/tokens.swift"
+          }
+        }
       ]
     }
   ]
