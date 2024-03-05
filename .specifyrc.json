@@ -12,7 +12,7 @@
           "output": {
             "type": "file",
             "filePath": "output/tokens.swift"
-          }
+          },
         {
           "name": "to-sdtf",
           "output": {
