@@ -18,6 +18,12 @@
           "name": "to-sdtf",
           "output": {
             "type": "file",
+            "filePath": "output/sdtf.json"
+          },
+        {
+          "name": "to-sdtf",
+          "output": {
+            "type": "file",
             "filePath": "output/tokens.json"
           }
         }
