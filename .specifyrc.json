@@ -1,0 +1,30 @@
+{
+  "repository": "@paymentsense/app-platform-experiment",
+  "head": "specifyrc-json",
+  "base": "main",
+  "version": "2",
+  "rules": [
+    {
+      "name": "SDTF",
+      "parsers": [
+        {
+          "name": "to-sdtf",
+          "output": {
+            "type": "file",
+            "filePath": "output/tokens.json"
+          }
+        }
+        {
+      "name": "To Swift",
+      "parsers": [
+        {
+          "name": "to-swift",
+          "output": {
+            "type": "file",
+            "filePath": "output/tokens.swift"
+          }
+        }
+      ]
+    }
+  ]
+}
