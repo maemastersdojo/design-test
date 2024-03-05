@@ -19,7 +19,8 @@
           "output": {
             "type": "file",
             "filePath": "output/sdtf.json"
-          },
+          }
+        },
         {
           "name": "to-sdtf",
           "output": {
