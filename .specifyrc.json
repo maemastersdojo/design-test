@@ -13,6 +13,12 @@
             "type": "file",
             "filePath": "output/tokens.swift"
           }
+        {
+          "name": "to-sdtf",
+          "output": {
+            "type": "file",
+            "filePath": "output/tokens.json"
+          }
         }
       ]
     }
