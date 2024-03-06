@@ -4,6 +4,13 @@
   "base": "main",
   "version": "2",
   "rules": [
+    {
+          "name": "to-style-dictionary",
+          "output": {
+            "type": "directory",
+            "directoryPath": "output/tokens/"
+          }
+        },
         {
       "name": "To Swift",
       "parsers": [
@@ -19,13 +26,6 @@
           "output": {
             "type": "file",
             "filePath": "output/sdtf.json"
-          }
-        },
-        {
-          "name": "to-style-dictionary",
-          "output": {
-            "type": "directory",
-            "directoryPath": "output/tokens/"
           }
         },
         {
