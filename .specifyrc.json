@@ -8,7 +8,7 @@
           "name": "to-style-dictionary",
           "output": {
             "type": "directory",
-            "directoryPath": "output/tokens/"
+            "directoryPath": "output/"
           }
         },
         {
