@@ -4,13 +4,6 @@
   "base": "main",
   "version": "2",
   "rules": [
-    {
-          "name": "to-style-dictionary",
-          "output": {
-            "type": "directory",
-            "directoryPath": "output/"
-          }
-        },
         {
       "name": "To Swift",
       "parsers": [
