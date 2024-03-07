@@ -15,6 +15,13 @@
           }
         },
         {
+          "name": "to-typescript",
+          "output": {
+            "type": "file",
+            "filePath": "tokens.ts"
+          }
+        },
+        {
           "name": "to-sdtf",
           "output": {
             "type": "file",
